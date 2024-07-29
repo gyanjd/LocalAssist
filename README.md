@@ -29,6 +29,9 @@ Install dependencies using npm:
 npm install
 ```
 
+### Note
+Create a 'uploads' folder on root directory
+
 Go to http://localhost:3000/
 
 Important Notes
