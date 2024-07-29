@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat Interface with File Upload</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-messages" id="chat-messages">
+      <!-- Chat messages will be appended here -->
+    </div>
+    <div class="chat-input">
+      <input type="text" id="user-input" placeholder="Type your message...">
+      <form id="upload-form" enctype="multipart/form-data">
+        <label for="file-upload" class="custom-file-upload">
+          Upload File
+          <input type="file" id="file-upload" name="file" accept=".txt">
+        </label>
+      </form>
+      <button id="send-button" onclick="sendMessage()">Send</button>
+    </div>
+    <div id="upload-status" class="hidden">Uploading...</div>
+    <div id="waiting-status" class="hidden">Waiting for response...</div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+Name: Gyan Jyoti Das
+Mob: +91 9085524598
+Email: gyanjd@gmail.com
+Github: https://github.com/gyanjd
+Linkedin: https://www.linkedin.com/in/gyan-jyoti-das
+Address: Nagaon, Assam
+WORK EXPERIENCE : 5 years
+Web Application Engineer (NodeJS Dev Stack) at Acquirlab Solutions PVT LTD (May 2023 - Current)
+Project – Remote Customer Service Application with live messaging, voice and video calling support (using
+NodeJs, ReactJs, MySQL, RabbitMQ, Redis, WebRTC)
+•Implement RESTful APIs
+•MicroServices with Event Driven Architecture
+•Bugs fixed.
+SDE 1 at Source.one (July 2022 - April 2023)
+Project – In-house CRM System (using NodeJs, ReactJs, Redux, MongoDB, PostgreSQL)
+•Implement RESTful APIs and unit testing with Jest.
+•Integrate Third Party API like Tyntec for Whatsapp messaging service, Cargo Exchange for track
+vehicle.
+•Reviewed code and bugs fixed.
+•Used Bitbucket and Agile methodology.
+Full stack Developer at Inginit Technology PVT LTD (Sep 2020 - July 2022)
+Project – Survey Web Application (using NodeJs, ReactJs, Redux, Neo4j, Javascript, GraphQl)
+•Partnered with 2 developer to implement RESTful APIs in Nodejs, GraphQl in Apollo
+and Frontend part in ReactJS.
+•Integrate Third Party API like QuickBooks.
+•Bugs fixed.
+•Used Github for code management
+Back-end Developer at Ekodus Technologies Private Limited (July 2019 - April 2020)
+Project - Food Delivery App (using PHP, Laravel, MySql)
+•Built RESTful API that served data to Android/IOS application based on dynamically chosen
+user input.
+•Integrate Third Party API like Google, Facebook, Twilio, Cloudinary.
+•Bugs fixed.
+Full stack Developer at GroZeal (June 2018 – July 2019)
+Projects – Stock Management Web Application, Travel Agency Website, E-commerce Website.(using NodeJs,
+PHP, MySql, MongoDB, JQuery, Javascript, HTML, CSS)
+• Built full-stack web application.
+• Bugs Fixed.
+• Added additional features as per client requirement.
+Internship at Hindustan Paper Corporation Ltd. (1 month) Project – Hospital Management System.SKILLS
+Programming Languages – JavaScript, C++, PHP
+Database – MySql, MongoDB, Neo4j, PostgreSQL
+Web Technologies – NodeJs, ReactJs, Apollo Client and Server, GraphQL, RabbitMQ, Redux, Git, JQuery, HTML,
+CSS
+EDUCATION
+B.Tech in Information Technology from North Eastern Hill University (Shillong, Meghalaya) August 2013 –
+July 2017

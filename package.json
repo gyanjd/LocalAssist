@@ -1,0 +1,22 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyan Jyoti Das",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.20",
+    "@langchain/mistralai": "^0.0.27",
+    "@langchain/ollama": "^0.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "index.js": "^0.0.3",
+    "langchain": "^0.2.11",
+    "multer": "^1.4.5-lts.1",
+    "neo4j-driver": "^5.23.0"
+  }
+}
